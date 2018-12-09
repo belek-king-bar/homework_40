@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title_block %}
+    Update
+{% endblock %}
+
+{% block content %}
+    <h1>Update list</h1>
+
+    <form action="{% url 'list_update' list.pk %}" method="post">
+        {% csrf_token %}
+        <label for="list_name">Задача:</label><br/>
+        <input id="list_name" type="text" name="name" value="{{ list.name }}"/><br/><br/>
+        <label>Статус:</label><br/>
+
+        <label for="customRadio1">
+            <input type="radio" id="customRadio1" name="status" value="done">Выполнено</label><br/>
+        <label for="customRadio2">
+            <input type="radio" id="customRadio2" name="status" value="process">В процессе</label><br/><br/>
+
+        <input type="submit" value="Send">
+
+    </form>
+{% endblock %}
