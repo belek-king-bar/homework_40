@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b338231b-fc86-4538-ab83-8ed3bfd497d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1df6315f-c86f-451c-8090-05e15395c31e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1df6315f-c86f-451c-8090-05e15395c31e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todolist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_group_2_homework_39_Belek_Tulibaev.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/migrations/0002_auto_20181205_1849.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/migrations/0003_remove_list_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/delete_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="b338231b-fc86-4538-ab83-8ed3bfd497d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

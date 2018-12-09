@@ -1,0 +1,5 @@
+*.sqlite3
+venv
+__pycache__
+.idea
+python_group_2_homework_39_Belek_Tulibaev.zip
